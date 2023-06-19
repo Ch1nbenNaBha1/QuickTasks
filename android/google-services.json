@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23255082168",
+    "project_id": "quicktasks-d77c9",
+    "storage_bucket": "quicktasks-d77c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23255082168:android:7c07a35ef872f2cb76004d",
+        "android_client_info": {
+          "package_name": "com.ch1nbennabha1.todoapp.to_do_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23255082168-99acqji5phe25eij173bdhjdngak1uti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASF3QLvCJzwBRIvcZ-z_m60Fpd-KTf6co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23255082168-99acqji5phe25eij173bdhjdngak1uti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

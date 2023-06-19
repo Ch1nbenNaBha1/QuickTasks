@@ -30,7 +30,6 @@ class _HomeState extends State<Home> {
 
 
     final provider = Provider.of<ThemeProvider>(context);
-    bool isDarkmode = false;
 
     return Scaffold(
 
@@ -125,6 +124,7 @@ class _HomeState extends State<Home> {
         ));
 
   }
+  bool isDarkmode = false;
   void _handleSearch(String text) {
 
     List<ToDo> resultList = [];
